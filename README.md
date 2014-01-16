@@ -1,5 +1,8 @@
 # Köyhyys ja sosiaalipolitiikka Venäjällä
 		
+        
+[Slaidit](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/teoriat.html)        
+        
 Voisin puhua ensin hieman teoreettisemmin siitä, millaisten teorioiden puitteissa sosiaalipoliittisia järjestelmiä tutkitaan ja miten venäläinen "hyvinvointivaltio" näyttää niiden valossa tai suhteessa Eurooppaan/kehittyviin maihin.
 
 Toiseksi voisin puhua ihan sosiaaliturvajärjestelmästä, sen neuvostoperinnöstä ja siihen tehdyistä nykyaikaistuksista.
