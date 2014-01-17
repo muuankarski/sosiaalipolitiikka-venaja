@@ -1,0 +1,73 @@
+Köyhyys ja sosiaalipolitiikka Venäjällä
+==============
+css: ../../../template/rpresentation/slides.css
+transition: fade
+
+
+Ikäihmisten yliopisto </br>
+Porvoossa, 6. helmikuuta 2014
+
+
+<a href="http://markuskainu.fi">Markus Kainu</a></br>
+*tohtorikoulutettava* </br>
+[Aleksanteri-instituutti, Helsingin yliopisto](http://helsinki.fi/aleksanteri) </br>
+
+
+<!-- ---| notes begin |--------------------------------
+Few words about the authors and the beauty of Torino and the smooth arrangements of the conference
+
+cd ~/workspace/..
+lftp -u np16003 -e "put slidefilename.html;quit" ftp://np16003@www.muuankarski.org/domains/markuskainu.fi/public_html/material/presentation
+---------| notes end |-----------------------------  --> 
+ 
+ 
+Sisältö
+================
+
+
+
+Teoriat
+--------------
+-  Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus, 
+
+Instituutiot
+--------------
+-  Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,
+
+### kolmas taso
+
+-  Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,
+
+Lainaus
+=============
+
+>Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,
+
+
+Kuvio
+============
+```{r}
+library(ggplot2)
+ggplot(diamonds, aes(clarity, fill=cut)) + geom_bar()
+```
+
+
+
+
+
+bigtitle
+============
+title: false
+<h1 style="text-align:center;padding-top:200px;">BIG:</BR> title</h1>
+
+<!-- ---| notes begin |--------------------------------
+
+
+---------| notes end |-----------------------------  --> 
+ 
+Taulukko
+====================
+
+| Heading1 | Heading2 | Heading4 |
+| -------- | -------- | -------- |
+| kkkkkkkk | kkkkkkkk | kkkkkkkk |
