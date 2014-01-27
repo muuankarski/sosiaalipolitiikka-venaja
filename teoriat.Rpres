@@ -2,11 +2,10 @@ Köyhyys ja sosiaalipolitiikka Venäjällä
 ==============
 css: ../../../template/rpresentation/slides.css
 transition: fade
-
+transition-speed: fast
 
 Ikäihmisten yliopisto </br>
 Porvoossa, 6. helmikuuta 2014
-
 
 <a href="http://markuskainu.fi">Markus Kainu</a></br>
 *tohtorikoulutettava* </br>
@@ -14,60 +13,94 @@ Porvoossa, 6. helmikuuta 2014
 
 
 <!-- ---| notes begin |--------------------------------
-Few words about the authors and the beauty of Torino and the smooth arrangements of the conference
 
-cd ~/workspace/..
-lftp -u np16003 -e "put slidefilename.html;quit" ftp://np16003@www.muuankarski.org/domains/markuskainu.fi/public_html/material/presentation
 ---------| notes end |-----------------------------  --> 
  
+
  
-Sisältö
-================
+Luennon sisältö
+===============
 
 
-
-Teoriat
+Johdanto
 --------------
--  Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus, 
+- Keskeisistä käsitteistä
 
-Instituutiot
+1. Hyvinvointivaltioteoriat ja Venäjän hyvinvointivaltion historiaa
 --------------
--  Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,
+- Voisin puhua ensin hieman teoreettisemmin siitä, millaisten teorioiden puitteissa sosiaalipoliittisia järjestelmiä tutkitaan ja miten venäläinen "hyvinvointivaltio" näyttää niiden valossa tai suhteessa Eurooppaan/kehittyviin maihin.
 
-### kolmas taso
+2. Venäjän hyvinvointivaltio nykyään
+------------------------
+- Venäjän sosiaaliturvajärjestelmästä, järjestelmän neuvostoperinnöstä ja järjestelmään tehdyistä nykyaikaistuksista
 
--  Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,
-
-Lainaus
-=============
-
->Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,
-
-
-Kuvio
-============
-```{r}
-library(ggplot2)
-ggplot(diamonds, aes(clarity, fill=cut)) + geom_bar()
-```
+3. Hyvinvointi Venäjällä
+------------------------
+- Hyvinvointi ja hyvinvoinnin puutteet niin sosioekonomisena kuin paikkaan/alueeseen liittyvänä ilmiönä. Voidaan katsoa vaikka Karjalan tasavallan elinoloja väestötietojen ja aluedatan näkökulmasta.
 
 
-
-
-
-bigtitle
+johdanto
 ============
 title: false
-<h1 style="text-align:center;padding-top:200px;">BIG:</BR> title</h1>
+<h1>Johdanto</h1>
 
-<!-- ---| notes begin |--------------------------------
+Keskeiset käsitteet
+=============
 
 
----------| notes end |-----------------------------  --> 
- 
-Taulukko
-====================
+1. jälkisosialistinen transitio
+--------------
+- alueellinen: entisen Neuvostoliiton alue & Itä-Euroopan maat
+- ajallinen: Neuvostoliiton hajoamisesta nykypäivään
+- systeeminen: siirtymä suunnitelmatalouden yksipuoluejärjestelmästä kohti monipuoluedemokratiaa & markkinataloutta
 
-| Heading1 | Heading2 | Heading4 |
-| -------- | -------- | -------- |
-| kkkkkkkk | kkkkkkkk | kkkkkkkk |
+2. sosiaalipolitiikka
+---------------
+1. politiikan lohko:
+2. akateeminen oppiaine:
+
+3. hyvinvointivaltio
+---------------
+1. yleisnimi kansalaisten hyvinvoinnin turvaamiseen tähtääville julkisille politiikoille (tulonsiirrot, sosiaalipalvelut)
+2. laajan julkisen sektorin ja korkean hyvinvoinnin valtiota voidaan kutsua hyvinvointivaltioksi 
+
+1. Hyvinvointivaltioteoriat ja venäläisen hyvinvointivaltion historia
+============
+title: false
+<h1>1. Hyvinvointi-<br>valtioteoriat  ja venäläisen <br> hyvinvointivaltion historia</h1>
+
+
+Hyvinvointivaltioteoriat
+============
+
+Hyvinvointivaltion rakentumiseta selittävät teoriat
+
+1. Rakenteelliset (funktionalistiset) teoriat
+   - 
+   - 
+   - 
+2. Toimijalähtöiset (konflikti) teoriat
+   - 
+   - 
+   - 
+
+1. Rakenteelliset (funktionalistiset) teoriat
+============
+
+
+2. Toimijalähtöiset (konflikti) teoriat
+============
+
+
+
+2. Venäjän hyvinvointivaltio nykyään
+============
+title: false
+<h1>2. Venäjän hyvinvointivaltio nykyään</h1>
+
+
+3. Hyvinvointi Venäjällä
+============
+title: false
+<h1>3. Hyvinvointi Venäjällä</h1>
+

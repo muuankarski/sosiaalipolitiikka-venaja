@@ -1,11 +1,21 @@
 # Köyhyys ja sosiaalipolitiikka Venäjällä
-		
-        
-[Slaidit](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/teoriat.html)        
-        
-Voisin puhua ensin hieman teoreettisemmin siitä, millaisten teorioiden puitteissa sosiaalipoliittisia järjestelmiä tutkitaan ja miten venäläinen "hyvinvointivaltio" näyttää niiden valossa tai suhteessa Eurooppaan/kehittyviin maihin.
 
-Toiseksi voisin puhua ihan sosiaaliturvajärjestelmästä, sen neuvostoperinnöstä ja siihen tehdyistä nykyaikaistuksista.
+Luennon materiaalit rakentuvat tänne:		
+        
+[Slaidit rakentuu tänne](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/teoriat.html)        
 
-Kolmantena teemana olisi sitten ihan köyhyys niin sosioekonomisena kuin paikkaan/alueeseen liittyvänä ilmiönä. Voidaan katsoa vaikka Karjalan tasavallan elinoloja väestötietojen ja aluedatan näkökulmasta.
+# Luennolla käytettyjä analyysisovelluksia
+
+- [Vertailuhärveli 1.](http://glimmer.rstudio.com/muuankarski/QogCorrEastE)
+- [Vertailuhärveli 2.](https://github.com/muuankarski/QogGVis)
+- [Saippuakuplavisualisointi Venäjän alueista](https://github.com/muuankarski/rusRegionGVis)
+- [Väestölaskentavisualisointeja](https://github.com/muuankarski/censusanalysis)
+
+# Lähteitä 
+
+## Verkkosivuja
+
+        
+## Kirjallisuutta
+
 

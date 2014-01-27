@@ -559,7 +559,6 @@ body {
   font-family: "News Cycle", Impact, sans-serif;
 }
 
-@import url(http://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700);
 /**
  * Solarized colors by Ethan Schoonover
@@ -595,7 +594,9 @@ html * {
     text-transform:uppercase;
     line-height: 1.1em;
     font-size: 2em;
-    border-bottom: 1px solid #657b83;
+    border-bottom: 3px solid #657b83;
+    font-family: "Open Sans", sans-serif;
+    text-align: left;
 }
 
 .section .reveal p {
@@ -612,11 +613,12 @@ body {
   background-color: #fdf6e3; }
 
 .reveal {
-  font-family: Tahoma, Geneva, sans-serif;
+  font-family: "Palatino", Geneva, sans-serif;
   font-size: 28px;
   font-weight: 200;
   letter-spacing: -0.02em;
-  color: #47565C; }
+  color: #47565C;
+  }
 
 ::selection {
   color: white;
@@ -634,10 +636,46 @@ body {
 .reveal h6 {
   margin: 0 0 20px 0;
   color: #586e75;
-  font-family: "Quicksand", sans-serif;
+  font-family: "Open Sans", sans-serif;
   line-height: 0.9em;
   letter-spacing: 0.02em;
   text-shadow: none; }
+
+/******************
+* titles slides 
+******************/
+
+.reveal h1 {
+    font-size: 2.5em;
+    text-transform:uppercase;
+    font-weight: 300;
+    text-align:center;
+    padding-top:200px;
+    border-bottom: 0px solid #657b83;
+    
+}
+
+.reveal h3 {
+    font-size: 1.8em;
+    font-weight: 400;
+    border-bottom: 1px solid #657b83;
+}
+
+/****************
+* slide content
+****************/
+
+.reveal .slides section .slideContent h2 {
+    font-size: 1.3em;
+    font-weight: 500;
+}
+
+.reveal .slides section .slideContent h3 {
+    font-size: 1em;
+    font-weight: 500;
+    font-style: italic;
+}
+
 
 
 /*********************************************
@@ -667,7 +705,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #657b83;
+  border: 1px solid #657b83;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
@@ -786,17 +824,158 @@ body {
 ******************************************/
 
 .reveal blockquote {
-  font-family: Tahoma, sans-serif;
+  font-family: "Palatino", sans-serif;
   display: block;
   background: #fdf6e3;
   position: relative;
   width: 90%;
   font-style: italic;
-  border-left: 5px solid #C6D7DC;
+  border-left: 4px solid #657b83;
   border-top: none;
   border-bottom: none;
   border-right: none;
   box-shadow: none;
+}
+
+
+/*********************************
+* fork me ribbon
+*******/
+
+/* Left will inherit from right (so we don't need to duplicate code) */
+.github-fork-ribbon {
+  /* The right and left classes determine the side we attach our banner to */
+  position: absolute;
+
+  /* Add a bit of padding to give some substance outside the "stitching" */
+  padding: 2px 0;
+
+  /* Set the base colour */
+  background-color: #a00;
+
+  /* Set a gradient: transparent black at the top to almost-transparent black at the bottom */
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.15)));
+  background-image: -webkit-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+  background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+  background-image: -ms-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+  background-image: -o-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+  background-image: linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15));
+
+  /* Add a drop shadow */
+  -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.5);
+
+  z-index: 9999;
+  pointer-events: auto;
+}
+
+.github-fork-ribbon a,
+.github-fork-ribbon a:hover {
+  /* Set the font */
+  font: 700 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #fff;
+
+  /* Set the text properties */
+  text-decoration: none;
+  text-shadow: 0 -1px rgba(0, 0, 0, 0.5);
+  text-align: center;
+
+  /* Set the geometry. If you fiddle with these you'll also need
+     to tweak the top and right values in .github-fork-ribbon. */
+  width: 300px;
+  line-height: 40px;
+
+  /* Set the layout properties */
+  display: inline-block;
+  padding: 2px 0;
+
+  /* Add "stitching" effect */
+  border-width: 1px 0;
+  border-style: dotted;
+  border-color: #fff;
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
+.github-fork-ribbon-wrapper {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  overflow: hidden;
+  top: 0;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.github-fork-ribbon-wrapper.fixed {
+  position: fixed;
+}
+
+.github-fork-ribbon-wrapper.left {
+  left: 0;
+}
+
+.github-fork-ribbon-wrapper.right {
+  right: 0;
+}
+
+.github-fork-ribbon-wrapper.left-bottom {
+  position: fixed;
+  top: inherit;
+  bottom: 0;
+  left: 0;
+}
+
+.github-fork-ribbon-wrapper.right-bottom {
+  position: fixed;
+  top: inherit;
+  bottom: 0;
+  right: 0;
+}
+
+.github-fork-ribbon-wrapper.right .github-fork-ribbon {
+  top: 62px;
+  right: -63px;
+
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.github-fork-ribbon-wrapper.left .github-fork-ribbon {
+  top: 42px;
+  left: -43px;
+
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
+}
+
+
+.github-fork-ribbon-wrapper.left-bottom .github-fork-ribbon {
+  top: 80px;
+  left: -43px;
+
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+
+.github-fork-ribbon-wrapper.right-bottom .github-fork-ribbon {
+  top: 80px;
+  right: -43px;
+
+  -webkit-transform: rotate(-45deg);
+  -moz-transform: rotate(-45deg);
+  -ms-transform: rotate(-45deg);
+  -o-transform: rotate(-45deg);
+  transform: rotate(-45deg);
 }
 
 
@@ -1022,7 +1201,7 @@ hljs.initHighlightingOnLoad();
   <div class="reveal">
   <div class="slides">
 
-<section data-state="section" data-transition="fade" data-transition-speed="default">
+<section data-state="section" data-transition="fade" data-transition-speed="fast">
 <h1>Köyhyys ja sosiaalipolitiikka Venäjällä</h1><p></p>
 
 <div class="slideContent" >
@@ -1034,90 +1213,141 @@ Porvoossa, 6. helmikuuta 2014</p>
 <a href="http://helsinki.fi/aleksanteri">Aleksanteri-instituutti, Helsingin yliopisto</a> </br></p>
 
 <!-- ---| notes begin |--------------------------------
-Few words about the authors and the beauty of Torino and the smooth arrangements of the conference
 
-cd ~/workspace/..
-lftp -u np16003 -e "put slidefilename.html;quit" ftp://np16003@www.muuankarski.org/domains/markuskainu.fi/public_html/material/presentation
 ---------| notes end |-----------------------------  --> 
 
 </div>
 
 </section>
-<section data-transition="fade" data-transition-speed="default">
-<h3>Sisältö</h3>
+<section data-transition="fade" data-transition-speed="fast">
+<h3>Luennon sisältö</h3>
 <div class="slideContent" >
-<h2>Teoriat</h2>
+<h2>Johdanto</h2>
 
 <ul>
-<li> Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus, </li>
+<li>Keskeisistä käsitteistä</li>
 </ul>
 
-<h2>Instituutiot</h2>
+<h2>1. Hyvinvointivaltioteoriat ja Venäjän hyvinvointivaltion historiaa</h2>
 
 <ul>
-<li> Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,</li>
+<li>Voisin puhua ensin hieman teoreettisemmin siitä, millaisten teorioiden puitteissa sosiaalipoliittisia järjestelmiä tutkitaan ja miten venäläinen &ldquo;hyvinvointivaltio&rdquo; näyttää niiden valossa tai suhteessa Eurooppaan/kehittyviin maihin.</li>
 </ul>
 
-<h3>kolmas taso</h3>
+<h2>2. Venäjän hyvinvointivaltio nykyään</h2>
 
 <ul>
-<li> Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,</li>
+<li>Venäjän sosiaaliturvajärjestelmästä, järjestelmän neuvostoperinnöstä ja järjestelmään tehdyistä nykyaikaistuksista</li>
+</ul>
+
+<h2>3. Hyvinvointi Venäjällä</h2>
+
+<ul>
+<li>Hyvinvointi ja hyvinvoinnin puutteet niin sosioekonomisena kuin paikkaan/alueeseen liittyvänä ilmiönä. Voidaan katsoa vaikka Karjalan tasavallan elinoloja väestötietojen ja aluedatan näkökulmasta.</li>
 </ul>
 
 </div>
 
 </section>
-<section data-transition="fade" data-transition-speed="default">
-<h3>Lainaus</h3>
-<div class="slideContent" >
-<blockquote>
-<p>Aliquam in elementum orci, eget varius dolor. Ut eget pharetra lorem. Aenean cursus ut ligula eu facilisis. Nunc ornare risus at enim tempus,</p>
-</blockquote>
-
-</div>
-
-</section>
-<section data-transition="fade" data-transition-speed="default">
-<h3>Kuvio</h3>
-<div class="mediaInline slideContent" >
-<pre><code class="r">library(ggplot2)
-ggplot(diamonds, aes(clarity, fill=cut)) + geom_bar()
-</code></pre>
-
-<p><img src="data:image/png;base64,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" alt="plot of chunk unnamed-chunk-1"/> </p>
-
-</div>
-
-</section>
-<section data-transition="fade" data-transition-speed="default">
+<section data-transition="fade" data-transition-speed="fast">
 
 <div class="slideContent noTitle" >
-<h1 style="text-align:center;padding-top:200px;">BIG:</BR> title</h1>
-
-<!-- ---| notes begin |--------------------------------
-
-
----------| notes end |-----------------------------  --> 
+<h1>Johdanto</h1>
 
 </div>
 
 </section>
-<section data-transition="fade" data-transition-speed="default">
-<h3>Taulukko</h3>
+<section data-transition="fade" data-transition-speed="fast">
+<h3>Keskeiset käsitteet</h3>
 <div class="slideContent" >
-<table><thead>
-<tr>
-<th>Heading1</th>
-<th>Heading2</th>
-<th>Heading4</th>
-</tr>
-</thead><tbody>
-<tr>
-<td>kkkkkkkk</td>
-<td>kkkkkkkk</td>
-<td>kkkkkkkk</td>
-</tr>
-</tbody></table>
+<h2>1. jälkisosialistinen transitio</h2>
+
+<ul>
+<li>alueellinen: entisen Neuvostoliiton alue &amp; Itä-Euroopan maat</li>
+<li>ajallinen: Neuvostoliiton hajoamisesta nykypäivään</li>
+<li>systeeminen: siirtymä suunnitelmatalouden yksipuoluejärjestelmästä kohti monipuoluedemokratiaa &amp; markkinataloutta</li>
+</ul>
+
+<h2>2. sosiaalipolitiikka</h2>
+
+<ol>
+<li>politiikan lohko:</li>
+<li><p>akateeminen oppiaine:</p></li>
+</ol>
+
+<h2>3. hyvinvointivaltio</h2>
+
+<ol>
+<li>yleisnimi kansalaisten hyvinvoinnin turvaamiseen tähtääville julkisille politiikoille (tulonsiirrot, sosiaalipalvelut)</li>
+<li>laajan julkisen sektorin ja korkean hyvinvoinnin valtiota voidaan kutsua hyvinvointivaltioksi </li>
+</ol>
+
+</div>
+
+</section>
+<section data-transition="fade" data-transition-speed="fast">
+
+<div class="slideContent noTitle" >
+<h1>1. Hyvinvointi-<br>valtioteoriat  ja venäläisen <br> hyvinvointivaltion historia</h1>
+
+</div>
+
+</section>
+<section data-transition="fade" data-transition-speed="fast">
+<h3>Hyvinvointivaltioteoriat</h3>
+<div class="slideContent" >
+<p>Hyvinvointivaltion rakentumiseta selittävät teoriat</p>
+
+<ol>
+<li>Rakenteelliset (funktionalistiset) teoriat
+
+<h2></h2>
+
+<h2></h2>
+
+<ul>
+<li></li>
+</ul></li>
+<li>Toimijalähtöiset (konflikti) teoriat
+
+<h2></h2>
+
+<h2></h2>
+
+<ul>
+<li></li>
+</ul></li>
+</ol>
+
+</div>
+
+</section>
+<section data-transition="fade" data-transition-speed="fast">
+<h3>1. Rakenteelliset (funktionalistiset) teoriat</h3>
+<div class="slideContent" >
+
+</div>
+
+</section>
+<section data-transition="fade" data-transition-speed="fast">
+<h3>2. Toimijalähtöiset (konflikti) teoriat</h3>
+<div class="slideContent" >
+
+</div>
+
+</section>
+<section data-transition="fade" data-transition-speed="fast">
+
+<div class="slideContent noTitle" >
+<h1>2. Venäjän hyvinvointivaltio nykyään</h1>
+
+</div>
+
+</section>
+<section data-transition="fade" data-transition-speed="fast">
+
+<div class="slideContent noTitle" >
+<h1>3. Hyvinvointi Venäjällä</h1>
 
 </div>
 
@@ -1174,7 +1404,7 @@ function commandsForSlide(indexh) {
       
       theme: 'simple', 
       transition: 'fade',
-      transitionSpeed: 'default',
+      transitionSpeed: 'fast',
       rtl: false,
       width: 960,
       height: 700,
