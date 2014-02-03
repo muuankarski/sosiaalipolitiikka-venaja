@@ -18,8 +18,8 @@ Luentodiat (.html-muodossa. Käytä Firefox/Chrome/Safari -selaimia katseluun)
 Luennolla käytettyjä analyysisovelluksia
 -------------------------------------------
 
-- [Vertailuhärveli 1.](http://glimmer.rstudio.com/muuankarski/QogCorrEastE)
-- [Vertailuhärveli 2.](https://github.com/muuankarski/QogGVis)
+- [Venäjän kansainvälisessä vertailussa](http://glimmer.rstudio.com/muuankarski/QogCorrEastE)
+- [Aluetilastojen vertailua](http://glimmer.rstudio.com/muuankarski/rus_region_fi/)
 - [Saippuakuplavisualisointi Venäjän alueista](https://github.com/muuankarski/rusRegionGVis)
 - [Väestölaskentavisualisointeja](https://github.com/muuankarski/censusanalysis)
 
