@@ -1,4 +1,4 @@
-Johdanto - keskeiset käsitteet ja luennon rakenne
+1. Johdanto - keskeiset käsitteet ja luennon rakenne
 ==============
 css: ../../../template/rpresentation/slides.css
 transition: fade
@@ -16,37 +16,26 @@ Porvoossa, 6. helmikuuta 2014
 Luennon rakenne
 ===============
 
-Johdanto
---------------
-- Keskeisistä käsitteistä
-
-1. Hyvinvointivaltioteoriat ja Venäjä kansainvälisesti vertailussa historiaa
---------------
-- Voisin puhua ensin hieman teoreettisemmin siitä, millaisten teorioiden puitteissa sosiaalipoliittisia järjestelmiä tutkitaan ja miten venäläinen "hyvinvointivaltio" näyttää niiden valossa tai suhteessa Eurooppaan/kehittyviin maihin.
-- kannatusperusta
-
-
-2. Venäjän hyvinvointivaltio nykyään
-------------------------
-- Venäjän sosiaaliturvajärjestelmästä, järjestelmän neuvostoperinnöstä ja järjestelmään tehdyistä nykyaikaistuksista
-
-
-4. Hyvinvointi Venäjällä
-------------------------
-- Hyvinvointi ja hyvinvoinnin puutteet niin sosioekonomisena kuin paikkaan/alueeseen liittyvänä ilmiönä. Voidaan katsoa vaikka Karjalan tasavallan elinoloja väestötietojen ja aluedatan näkökulmasta.
-
-
-Luennon rakenne
-===============
-
-
+- [1. Johdanto](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
+    - keskeiset käsitteet
+    - hyvinvointivaltion rakentumisen teoriat
+    - hyvinvointivaltio Neuvostoliitossa
+- [2. Sosiaalipolitiikka Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/sosiaalipolitiikka.html)
+    - rakenteet ja toimijat
+    - keskeiset reformit sitten Neuvostoliiton
+    - kansainvälinen vertailu
+    - kannatusperusta
+- [3. Köyhyys Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
+    - köyhyyden käsitteestä
+    - köyhyys sosioekonomisena ilmiönä
+    - köyhyys paikkaan liittyvänä ilmiönä
+    
 
 
 johdanto
 ====================================
 title: false
-<h1>Johdanto - Keskeiset käsitteet</h1>
-
+<h1>Keskeiset käsitteet</h1>
 
 
 1. jälkisosialistinen transitio
@@ -55,26 +44,35 @@ title: false
 - ajallinen: Neuvostoliiton hajoamisesta nykypäivään
 - systeeminen: siirtymä suunnitelmatalouden yksipuoluejärjestelmästä kohti monipuoluedemokratiaa & markkinataloutta
 
-2. Hyvinvointi ja köyhyys
-====================================
-1. Köyhyys = hyvinvoinnin puutteiden tietty taso
-2. määritelmät
+Reaalisosialismi
+-------------------------------------
 
-3. sosiaalipolitiikka
-====================================
-1. politiikan lohko:
-2. akateeminen oppiaine:
 
-4. hyvinvointivaltio
+Suunnitelmatalous
+-------------------------------------
+
+
+2. hyvinvointivaltio
 ====================================
 1. yleisnimi kansalaisten hyvinvoinnin turvaamiseen tähtääville julkisille politiikoille (tulonsiirrot, sosiaalipalvelut)
 2. laajan julkisen sektorin ja korkean hyvinvoinnin valtiota voidaan kutsua hyvinvointivaltioksi 
 
+sosiaalipolitiikka
+-------------------------------------
+1. politiikan lohko:
+2. akateeminen oppiaine:
 
-1. Hyvinvointivaltioteoriat ja venäläisen hyvinvointivaltion historia
+
+
+<!-- ************************************** -->
+<!-- ************************************** -->
+<!-- ************************************** -->
+
+
+Hyvinvointivaltioteoriat
 ====================================
 title: false
-<h1>1. Hyvinvointi-<br>valtioteoriat  ja venäläisen <br> hyvinvointivaltion historia</h1>
+<h1>1. Hyvinvointi-<br>valtioteoriat</h1>
 
 
 Hyvinvointivaltioteoriat
@@ -90,4 +88,79 @@ Hyvinvointivaltion rakentumista selittävät teoriat
    - 
    - 
    - 
+
+<!-- ************************************** -->
+<!-- ************************************** -->
+<!-- ************************************** -->
+
+Venäjän hyvinvointivaltion historiaa
+====================================
+title: false
+<h1>2. Venäjän hyvinvointivaltion historiaa</h1>
+
+
+Hyvinvointivaltio keisarinajan Venäjällä
+=====================================
+- Almujen antaminen köyhille kuulunut aina ortodoksiseen uskoon
+- Valtiollisen "sosiaalipolitiikan" kehitys
+    - 1500-luvulla Iivana Julman aikaan köyhien auttamisesta myös valtion tehtävä
+    - valtiollinen köyhäinhoito 1700-luvulta 1900-luvun alkuun mennessä
+    - kyläyhteisöt, seurakunnat ja luostarit sekä kaupunkien hallinnot päävastuussa
+- Hyväntekeväisyys keskeisessä asemassa 1800-luvun lopulla ja 1900-luvun alussa
+    - 1898 yli 7 miljoonaa ihmistä hyväntekeväisyyden piirissä
+    - laitoksissa yli puoli miljoonaa ihmistä
+    - 1910 Venäjällä 140854 hyväntekeväisyyslaitosta, joista 7349 antoi kertaluonteista apua ja 7505 laitosasumista
+    - 3/4 laitoksista ylläpidettiin yksityisin varoin
+- Hyväntekeväisyys ei kyennyt vähentämään köyhyyttä ja 1900-luvun alussa sosiaalinen tyytymättömyys voimistui Venäjällä, mikä johti vallankumouksiin 1905-1907 ja ja 1917
+
+
+Neuvostoliitto siirsi vastuun sosiaalipolitiikasta valtiolle
+=====================================
+- hyväntekeväisyys lakkautettiin ja järjestöjen omaisuus valtiolle. Hyväntekeväisyys *työläistä nöyryyttävää armopalojen antamista*
+
+>Joka ei työtä tee, sen ei syömänkään pidä
+
+- Neuvostoliiton sosiaaliturvan perusteet määriteltiin 20-luvun aikana
+    - 1918 toimeentulominimi minimipalkan määrittämistä varten ns. minimitarvebudjetin (elintarvikekori) avulla
+    - ihminen köyhä jos tulot alittivat elintarvikekorin hinnan
+
+Uuden talouspolitiikan (NEP) aika 1922-28
+=====================
+- sosiaalisten oikeuksen kasvun aikaa
+- kaupunkien työläisten sosiaaliset olosuhteet ensisijaiset
+-- 1928 tekstiiliteollisuuden työntekijöille oikeus työeläkkeisiin
+- seuraavana vuonna myös vuori-, metallurgia- ja sähköteknisen teollisuuden sekä kuljetusalan työtekijöille
+- vammaishuoltoa tuettiin voimakkaasti, teollisuusyrityksillä velvoite pitää 2 % työvoimasta vammaisia
+
+Stalinin teollistamisohjelma 1928 -
+============================
+- väestön reaalitulot laskivat, väestö köyhtyi
+- toimeentulominimin määrittely lakkautettiin
+- varat sosiaaliseen tukemiseen hävisivät
+    - asunnottomuus
+- Puolet väestöstä talonpoikia, joilla ei oikeutta eläkkeeseen tai muihin etuihin. 
+    - 1930-luvun nälänhätä koetteli etenkin maaseutua
+    
+Taistelu lasten irtolaisuutta vastaan
+================================
+- Moskovassa ja Leningradissa 1920-luvulla avioliiton kesto 8 kuukautta
+- kodittomista lapsista huolehtiminen valtion yhdeksi tärkeimmistä sosiaalisista tehtävistä
+    - erilaisia lastenkoteja perustettiin laajalti
+    - pyrittiin opettamaan lapsia ja nuoria työhön
+    -
+1930-luvulla otteet kovenivat
+    - kodittomat alaikäiset työkollektiiveihin, kasvatusleireille ja Komsomolin rakennustyömaille
+    - 1935 laki lasten irtolaisuuden ja kodittomuuden lopettamiseksi
+    - 
+    
+Sotavuodet
+===========================
+- perheiden,  sotaorpojen ja sotainvalidien auttaminen
+- valtionyrityksille vastuita lastentarhojen rakentamisesta
+- sotien aikana lasten kodittomuus lisääntyi
+
+Sosiaaliturvan kehittyminen sodan jälkeen
+===========================
+
+
 

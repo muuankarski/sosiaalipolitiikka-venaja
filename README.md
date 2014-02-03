@@ -3,14 +3,14 @@
 Luentodiat (.html-muodossa. Käytä Firefox/Chrome/Safari -selaimia katseluun)
 -------------------------------------------
 
-- [Johdanto](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
+- [1. Johdanto](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
     - keskeiset käsitteet
     - hyvinvointivaltion rakentumisen teoriat
     - hyvinvointivaltio Neuvostoliitossa
-- [Hyvinvointivaltio Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/sosiaalipolitiikka.html)
+- [2. Sosiaalipolitiikka Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/sosiaalipolitiikka.html)
     - rakenteet ja toimijat
     - keskeiset reformit sitten Neuvostoliiton
-- [Venäläinen köyhyys](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
+- [3. Köyhyys Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
     - köyhyys käsitteestä
     - köyhyys sosioekonomisena ilmiönä
     - köyhyys paikkaan liittyvänä ilmiönä
