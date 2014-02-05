@@ -3,7 +3,7 @@
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
-incremental: true
+incremental: false
 
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
@@ -18,18 +18,9 @@ Luennon rakenne
 ===============
 
 - [1. Johdanto](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
-    - keskeiset käsitteet
-    - hyvinvointivaltion rakentumisen teoriat
-    - hyvinvointivaltio Neuvostoliitossa
 - [2. Sosiaalipolitiikka Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/sosiaalipolitiikka.html)
-    - rakenteet ja toimijat
-    - keskeiset reformit sitten Neuvostoliiton
-    - kansainvälinen vertailu
-    - kannatusperusta
 - [3. Köyhyys ja elinolot Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
-    - köyhyyden käsitteestä
-    - köyhyys sosioekonomisena ilmiönä
-    - köyhyys paikkaan liittyvänä ilmiönä
+
     
 
 
@@ -39,56 +30,86 @@ title: false
 <h1>Keskeiset käsitteet</h1>
 
 
-1. jälkisosialistinen transitio
+jälkisosialistinen transitio
 ====================================
 - alueellinen: entisen Neuvostoliiton alue & Itä-Euroopan maat
 - ajallinen: Neuvostoliiton hajoamisesta nykypäivään
 - systeeminen: siirtymä suunnitelmatalouden yksipuoluejärjestelmästä kohti monipuoluedemokratiaa & markkinataloutta
 
-Reaalisosialismi
--------------------------------------
-
-
-Suunnitelmatalous
--------------------------------------
-
-
-2. hyvinvointivaltio
+hyvinvointivaltio
 ====================================
+
 1. yleisnimi kansalaisten hyvinvoinnin turvaamiseen tähtääville julkisille politiikoille (tulonsiirrot, sosiaalipalvelut)
 2. laajan julkisen sektorin ja korkean hyvinvoinnin valtiota voidaan kutsua hyvinvointivaltioksi 
+3. tällä luennolla hyvinvointivaltio = sosiaaliturva
 
 sosiaalipolitiikka
--------------------------------------
-1. politiikan lohko:
-2. akateeminen oppiaine:
+===================================
+
+[wikipedia](http://fi.wikipedia.org/wiki/Sosiaalipolitiikka)
+
+>Sosiaalipolitiikka tarkoittaa julkisia toimia, joilla pyritään takaamaan väestölle kohtuullinen elintaso, turvallisuus ja viihtyvyys sekä näihin toimiin kohdistuvaa tutkimusta tieteenalana.
+
+>Sosiaalipolitiikka nostaa esiin yhteiskunnan ja ihmisen arvoja. Se sisältää käsitteitä, kuten sosiaaliturvapolitiikka, koulutus-, asunto- ja aluepolitiikka sekä työ-, terveys- ja kansainvälinen sosiaalipolitiikka.
 
 
-
-<!-- ************************************** -->
-<!-- ************************************** -->
-<!-- ************************************** -->
-
-
-Hyvinvointivaltioteoriat
+Hyvinvointivaltioteoriat 
 ====================================
-title: false
-<h1>1. Hyvinvointi-<br>valtioteoriat</h1>
-
-
-Hyvinvointivaltioteoriat
-====================================
-
-Hyvinvointivaltion rakentumista selittävät teoriat
 
 1. Rakenteelliset (funktionalistiset) teoriat
-   - 
-   - 
-   - 
+   - hyvinvointivaltion kehitys seuraa taloudellista kehittymistä ja yhteiskunnnan modernisaatiota
+        - [Clark Kerr et al. (1960) Industrialism and Industrial Man](http://books.google.fi/books?id=QXZEAAAAIAAJ&q=Industrialism+and+Industrial+Man&dq=Industrialism+and+Industrial+Man&hl=fi&sa=X&ei=OjeJULncMOqp4gS5jIHQAQ&ved=0CC4Q6AEwAA)
+        - [Wilensky (1975) Welfare State and Equality](http://books.google.fi/books?hl=fi&lr=&id=5zaa84FFNLwC&oi=fnd&pg=PR11&dq=The+Welfare+State+and+Equality+%28California,+1975%29&ots=06GKJO0wLT&sig=Ov9mfXQeudviMRyl5j1YtyhxGA8&redir_esc=y#v=onepage&q=The%20Welfare%20State%20and%20Equality%20%28California%2C%201975%29&f=false)
+        - [O’Connor (1973) Fiscal Crisis of the State](http://www.google.com/books?hl=fi&lr=&id=onvnIE4WF0wC&oi=fnd&pg=PR13&dq=O%E2%80%99Connor+1973+Fiscal+Crisis+of+the+State&ots=zL48m0l5Am&sig=sFujr1xzsecqrNw8ViRDnhQSJFQ)
+
 2. Toimijalähtöiset (konflikti) teoriat
-   - 
-   - 
-   - 
+   - Valtaresurssiteoria: hyvinvointivaltio ilmentää eri toimijoiden voimasuhteita yhteiskunnassa
+        - [Korpi (1989) Power, politics, and state autonomy in the development of social citizenship: Social rights during sickness in eighteen OECD countries since 1930](http://www.tandfonline.com/doi/abs/10.1080/01402388008424288)
+        - [Baldwin (1990) The Politics of Social Solidarity](http://books.google.fi/books/about/The_Politics_of_Social_Solidarity.html?id=KjVSn1lyurIC&redir_esc=y)
+
+Hyvinvointivaltiomallit
+====================================
+
+[Esping-Andersen, Gösta (1990) The Three Worlds of Welfare Capitalism.](http://books.google.fi/books/about/The_Three_Worlds_of_Welfare_Capitalism.html?id=Vl2FQgAACAAJ&redir_esc=y)
+- dekommodifikaatio = markkinariippumattomuus
+    - ilmaisee tarpeentyydytyksen tasoa, jonka kansalaiset voivat saavuttaa riippumatta heidän osallistumisestaan markkinoille 
+    - kun työssäkäynti lähestyy pikemminkin vapaata valintaa kuin pakkoa, voidaan puhua de-proletarisaatiosta
+
+Liberaali malli
+------------------------------------
+- etuuksien tarveharkinta & kohdentaminen köyhille, yksityiset sosiaali- ja terveyspalvelut: USA
+
+Sosiaalidemokraattinen malli
+------------------------------------
+- universaalit etuudet, sosiaaliset oikeudet, tasa-arvo -> Ruotsi
+
+Konservatiivinen/Korporatiivinen malli
+------------------------------------
+- sosiaalivakuutus keskeistä, ylläpitää sosiaalisia eroja  -> Saksa
+
+
+Hyvinvointivaltioteoriat nykyään
+=====================================
+
+- rakenteellisten selitysten uusi tuleminen
+    - globalisaatio & deindustrialisaatio ([Iversen and Cusack (2000)The Causes of Welfare State Expansion: Deindustrialization or Globalization?](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=7660120))
+    - ekologinen kestävyys ([Max Koch (2011) Climate Change and Capitalism](http://www.palgrave.com/products/title.aspx?pid=413401))
+- toimijalähtöiset teoriat
+    - sukupuoli ([Huber and Stephens, 2001](http://books.google.fi/books?id=bKW-mtx3YikC&printsec=frontcover&dq=Huber+and+Stephens,+2001&hl=fi&sa=X&ei=DyeJUN7VDOrN4QT2uoGIBA&ved=0CC4Q6AEwAA#v=onepage&q=Huber%20and%20Stephens%2C%202001&f=false))
+    - eliitti
+- uudet luokittelut
+    - "hyvinvointivaltiomallinnoksen bisnes" sosiaalipolitiikan alalla
+    - globaalit luokittelut ([Gough and Wood (2006) A Comparative Welfare Regime Approach to Global Social Policy](http://ideas.repec.org/a/eee/wdevel/v34y2006i10p1696-1712.html) & [Aspalter (2008) The welfare state in cross-cultural perspective](http://isw.sagepub.com/content/51/6/777.short))
+
+
+
+Neuvostoliitto/Venäjä suhteessa teorioihin 
+====================================
+
+- toisin kuin kehitysmaissa, perusturva ja palvelut olemassa ja kohtuullisella tasolla
+- toisin kuin "länsimaissa", hyvinvointivaltion ylhäältä valtion taholta ohjattua demokraattisen prosessin sijaan
+
+
 
 <!-- ************************************** -->
 <!-- ************************************** -->
@@ -97,7 +118,7 @@ Hyvinvointivaltion rakentumista selittävät teoriat
 Venäjän hyvinvointivaltion historiaa
 ====================================
 title: false
-<h1>2. Venäjän hyvinvointivaltion historiaa</h1>
+<h1>Venäjän hyvinvointivaltion historiaa</h1>
 
 
 Hyvinvointivaltio keisarinajan Venäjällä
@@ -139,18 +160,14 @@ Stalinin teollistamisohjelma 1928 -
 - Puolet väestöstä talonpoikia, joilla ei oikeutta eläkkeeseen tai muihin etuihin. 
     - 1930-luvun nälänhätä koetteli etenkin maaseutua
     
-Taistelu lasten irtolaisuutta vastaan
+Lasten irtolaisuus
 ================================
 - Moskovassa ja Leningradissa 1920-luvulla avioliiton kesto 8 kuukautta
 - kodittomista lapsista huolehtiminen valtion yhdeksi tärkeimmistä sosiaalisista tehtävistä
-    - erilaisia lastenkoteja perustettiin laajalti
-    - pyrittiin opettamaan lapsia ja nuoria työhön
-    -
-1930-luvulla otteet kovenivat
+- 1930-luvulla otteet kovenivat
     - kodittomat alaikäiset työkollektiiveihin, kasvatusleireille ja Komsomolin rakennustyömaille
     - 1935 laki lasten irtolaisuuden ja kodittomuuden lopettamiseksi
-    - 
-    
+
 Sotavuodet
 ===========================
 - perheiden,  sotaorpojen ja sotainvalidien auttaminen
@@ -172,6 +189,7 @@ Eläkejärjestelmä
 - 1985 25 vuotta samassa paikassa työskennelleiden eläkkeiden korotukset kaksinkertaistettiin
 - minimieläkkeellä olevat saivat lääkkeet 50 prosentin alennuksella
 
+
 Perhe-etuudet
 =============================
 - äitiysloma alle vuoden ikäisen hoitamiseen kotona, josta maksettiin ansiosidonnaista tukea (mahdollisuus 6 kk:n palkattomaan kotihoitoon)
@@ -190,21 +208,13 @@ Yritysten rooli sosiaaliturvassa
     - tilat ilmaiselle terveydenhuollolle
     - tukea vähävaraisille, invalideille ja yrityksestä eläköityneille
     - kolhooseilla ja sovhooseilla vanhainkotivelvollisuus
-    
-Järjestelmän romahtaminen ja sosiaaliturva
-==============================
 - yritysvetoinen paternalistinen sosiaaliturvajärjestelmä hajosi talousjärjestelmän romahtamisen myötä
 - vuonna 2000 yritysten tarjoamien palveluiden arvo enää 1% bkt:sta
-- järjestelmä oli taannut minimiturva, mutta palkkataso jäi kehnoksi
-- 1980-luvulla palkansaajat saivat 1/3 kansantuotteesta palkkoina kun länsimaissa osuus oli ~60-80 %
-- sosiaaliturvan hallinto oli keskitetty ja byrokraattinen, 90 prosenttia sosiaaliturvasta maksettiin valtion budjetista
-
 
 Yhteenveto
 ====================================
 title: false
 <h1>Yhteenveto</h1>
-
 
 Ideaali
 ===============================
@@ -219,10 +229,10 @@ Todellisuus
 =================================
 - kahden minimipalkalla työssäkäyvän vanhemman ja kahden lapsen perhe oli köyhä
 - kulutustavarat ja epävirallinen talous, verkostot
-
-
-Eli 
-==================================
-- tarjosi minimitoimeentulo, mutta ei palkinnut ahkeruudesta
+- maaseudulla reaaliset elinolot olivat usein jopa kaupunkia paremmat johtuen omavaraistaloudesta
 - yhden ryhmän sosiaalisia oikeuksia lisättiin toisten ryhmien oikeuksia ja vapauksia vähentämällä
+- järjestelmä oli taannut minimiturva, mutta palkkataso jäi kehnoksi
+- 1980-luvulla palkansaajat saivat 1/3 kansantuotteesta palkkoina kun länsimaissa osuus oli ~60-80 %
+- sosiaaliturvan hallinto oli keskitetty ja byrokraattinen, 90 prosenttia sosiaaliturvasta maksettiin valtion budjetista
+
 

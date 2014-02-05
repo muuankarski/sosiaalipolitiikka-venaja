@@ -1,20 +1,14 @@
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 ===========================================
 
-Luentodiat (.html-muodossa. Käytä Firefox/Chrome/Safari -selaimia katseluun)
+Luentodiat
 -------------------------------------------
 
+*Diat .html-muodossa. Käytä Firefox/Chrome/Safari -selaimia katseluun. Vaihda diaa nuolinäppäimillä!*
+
 - [1. Johdanto](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
-    - keskeiset käsitteet
-    - hyvinvointivaltion rakentumisen teoriat
-    - hyvinvointivaltio Neuvostoliitossa
 - [2. Sosiaalipolitiikka Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/sosiaalipolitiikka.html)
-    - rakenteet ja toimijat
-    - keskeiset reformit sitten Neuvostoliiton
-- [3. Köyhyys Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
-    - köyhyys käsitteestä
-    - köyhyys sosioekonomisena ilmiönä
-    - köyhyys paikkaan liittyvänä ilmiönä
+- [3. Köyhyys ja elinolot Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
 
 Luennolla käytettyjä analyysisovelluksia
 -------------------------------------------
@@ -23,16 +17,3 @@ Luennolla käytettyjä analyysisovelluksia
 - [Aluetilastojen vertailua](http://glimmer.rstudio.com/muuankarski/rus_region_fi/)
 - [Saippuakuplavisualisointi Venäjän alueista](https://github.com/muuankarski/rusRegionGVis)
 - [Väestölaskentavisualisointeja](https://github.com/muuankarski/censusanalysis)
-
-Lähteitä 
-============================================
-
-
-Verkkosivuja
--------------------------------------------
-
-
-Kirjallisuutta
--------------------------------------------
-
-
