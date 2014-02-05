@@ -1,10 +1,10 @@
-3. Köyhyys Venäjällä
+3. Köyhyys ja elinolot Venäjällä
 ==============
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
 
-Luento: *Sosiaalipolitiikka ja köyhyys Venäjällä* </br>
+Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
 Porvoossa, 6. helmikuuta 2014
 
@@ -13,5 +13,38 @@ Porvoossa, 6. helmikuuta 2014
 [Aleksanteri-instituutti, Helsingin yliopisto](http://helsinki.fi/aleksanteri) &</br>
 [Sosiaalitieteiden laitos, Turun yliopisto](http://www.utu.fi/fi/yksikot/soc/yksikot/sospol_ja_sostyo/Sivut/home.aspx) </br>
  
-Luennon rakenne
-===============
+
+iso otsikko
+====================================
+title: false
+<h1>Elinolot suhteessa muuhun maailmaan</h1>
+
+Bkt per capita
+=====================================
+
+
+Inhimillisen kehityksen indeksi
+=====================================
+
+iso otsikko
+====================================
+title: false
+<h1>Elinolot Venäjällä</h1>
+
+
+
+iso otsikko
+====================================
+title: false
+<h1>Elinolot Venäjän alueilla</h1>
+
+
+
+iso otsikko
+====================================
+title: false
+<h1>Piirien väliset erot elinoloissa</h1>
+
+
+Karjalan tasavalta vrt. Sotshin alue
+===================================

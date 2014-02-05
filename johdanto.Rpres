@@ -1,10 +1,11 @@
-1. Johdanto - keskeiset käsitteet ja luennon rakenne
+1. Johdanto - sosiaaliturva ja elinolot Neuvostoliitossa
 ==============
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
+incremental: true
 
-Luento: *Sosiaalipolitiikka ja köyhyys Venäjällä* </br>
+Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
 Porvoossa, 6. helmikuuta 2014
 
@@ -25,7 +26,7 @@ Luennon rakenne
     - keskeiset reformit sitten Neuvostoliiton
     - kansainvälinen vertailu
     - kannatusperusta
-- [3. Köyhyys Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
+- [3. Köyhyys ja elinolot Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
     - köyhyyden käsitteestä
     - köyhyys sosioekonomisena ilmiönä
     - köyhyys paikkaan liittyvänä ilmiönä
@@ -117,9 +118,6 @@ Hyvinvointivaltio keisarinajan Venäjällä
 Neuvostoliitto siirsi vastuun sosiaalipolitiikasta valtiolle
 =====================================
 - hyväntekeväisyys lakkautettiin ja järjestöjen omaisuus valtiolle. Hyväntekeväisyys *työläistä nöyryyttävää armopalojen antamista*
-
->Joka ei työtä tee, sen ei syömänkään pidä
-
 - Neuvostoliiton sosiaaliturvan perusteet määriteltiin 20-luvun aikana
     - 1918 toimeentulominimi minimipalkan määrittämistä varten ns. minimitarvebudjetin (elintarvikekori) avulla
     - ihminen köyhä jos tulot alittivat elintarvikekorin hinnan
@@ -161,6 +159,70 @@ Sotavuodet
 
 Sosiaaliturvan kehittyminen sodan jälkeen
 ===========================
+- 50-luvulta aina 80-luvulle talouden kasvu mahdollisti myös sosiaaliturvan parantamisen
+- alhaisia palkkoja kompensoitiin luontoisetuuksislla, joihin kuului halpa asuminen ja liikkuminen, ilmainen koulutus ja terveydenhuolto
+- maatalousväestön asema ja sosiaaliturva koheni lähelle kaupunkilaisten tasoa
+
+Eläkejärjestelmä
+===========================
+- 1956 työeläkelaissa säädettiin eläkeiät 55 naisille ja 60 miehille, sekä määriteltiin uusia eläkkeeseen oikeutettuja ryhmiä (kategorioita)
+- eläkkeiden tasoa nostettiin niin että elämä ilman sivutyötä tuli  mahdolliseksi
+- 1964 luotiin maataloustyöläisten eläkejärjestelmä ja 1970 luotiin maatalouden työntekijöiden sosiaaliturvajärjestelmä
+- 1960-luvulta Neuvostoliiton romahtamiseen saakka eläkettä tai sosiaalitukia saaneiden määrä kaksinkertaistui 10 prosentista 20 prosenttiin
+- 1985 25 vuotta samassa paikassa työskennelleiden eläkkeiden korotukset kaksinkertaistettiin
+- minimieläkkeellä olevat saivat lääkkeet 50 prosentin alennuksella
+
+Perhe-etuudet
+=============================
+- äitiysloma alle vuoden ikäisen hoitamiseen kotona, josta maksettiin ansiosidonnaista tukea (mahdollisuus 6 kk:n palkattomaan kotihoitoon)
+- 1966 säädettin vähävaraisille perheille ilmaiset ruoat ja lääkkeet 1 ikävuoteen saakka
+- ns. äitiysavustus 1970 alkaen, ja tarveharkintainen lapsilisä 1974 alkaen
+- 1981 alkaen lisäloma työssäkäyville äideille
+- perheille tukia ensiasunnon hankintaan
+
+Yritysten rooli sosiaaliturvassa
+==============================
+- ennen Neuvostoliiton hajoamista yritysten tarjoaminen sosiaalipalveluiden osuus 4% bkt:sta
+- yritysten vastuulla tarjota
+    - asunnot
+    - lastentarhat
+    - lomapaikat
+    - tilat ilmaiselle terveydenhuollolle
+    - tukea vähävaraisille, invalideille ja yrityksestä eläköityneille
+    - kolhooseilla ja sovhooseilla vanhainkotivelvollisuus
+    
+Järjestelmän romahtaminen ja sosiaaliturva
+==============================
+- yritysvetoinen paternalistinen sosiaaliturvajärjestelmä hajosi talousjärjestelmän romahtamisen myötä
+- vuonna 2000 yritysten tarjoamien palveluiden arvo enää 1% bkt:sta
+- järjestelmä oli taannut minimiturva, mutta palkkataso jäi kehnoksi
+- 1980-luvulla palkansaajat saivat 1/3 kansantuotteesta palkkoina kun länsimaissa osuus oli ~60-80 %
+- sosiaaliturvan hallinto oli keskitetty ja byrokraattinen, 90 prosenttia sosiaaliturvasta maksettiin valtion budjetista
 
 
+Yhteenveto
+====================================
+title: false
+<h1>Yhteenveto</h1>
+
+
+Ideaali
+===============================
+- Neuvostoliitossa ajateltin että köyhyys on kapitalistisen yhteiskuntajärjestelmän ongelma, eikä kommunismissa ole köyhyyttä
+- Siksi sosiaalipolitiikan ensisijainen tarkoitus ei ollut poistaa köyhyyttä, sosiaaliturva jaettiin ns. kategorisin perustein, eikä köyhyys ollut kategoria
+- "työ on parasta sosiaaliturvaa" tai Lenin: "Joka ei työtä tee, sen ei syömänkään pidä"
+- samalla kuitenkin alipalkkaus nähtiin ongelmana ja siihen vaikutettiin.
+- 1957 määriteltiin minimipalkka minimikulutuskorin perusteella ja raja pysyi samana aina 30 vuoden ajan (stagnaation aika)
+- täystyöllisyyden ja toimeentulominimiä vastanneiden minimipalkkojen ja -eläkkeiden tuli taata kansalaisille suoja köyhyydeltä
+
+Todellisuus
+=================================
+- kahden minimipalkalla työssäkäyvän vanhemman ja kahden lapsen perhe oli köyhä
+- kulutustavarat ja epävirallinen talous, verkostot
+
+
+Eli 
+==================================
+- tarjosi minimitoimeentulo, mutta ei palkinnut ahkeruudesta
+- yhden ryhmän sosiaalisia oikeuksia lisättiin toisten ryhmien oikeuksia ja vapauksia vähentämällä
 
