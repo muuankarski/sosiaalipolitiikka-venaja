@@ -1,4 +1,5 @@
-# Köyhyys ja sosiaalipolitiikka Venäjällä
+Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
+===========================================
 
 Luentodiat (.html-muodossa. Käytä Firefox/Chrome/Safari -selaimia katseluun)
 -------------------------------------------
