@@ -3,6 +3,7 @@
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
+incremental: true
 
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
@@ -12,13 +13,61 @@ Porvoossa, 6. helmikuuta 2014
 *tohtorikoulutettava* </br>
 [Aleksanteri-instituutti, Helsingin yliopisto](http://helsinki.fi/aleksanteri) &</br>
 [Sosiaalitieteiden laitos, Turun yliopisto](http://www.utu.fi/fi/yksikot/soc/yksikot/sospol_ja_sostyo/Sivut/home.aspx) </br>
- 
-
-
-===================================
+ ===================================
 
 ![](http://upload.wikimedia.org/wikipedia/commons/0/06/Russian_economy_since_fall_of_Soviet_Union.PNG)
+ 
 
+===================================
+title:false
+<h1>1990-luvun taloudellinen ja sosiaalinen kriisi</h1>
+
+N-liiton romahtamisen vaikutukset
+===================================
+Vuosien 1992-2000 aikana
+- bkt laski 38 %
+- teollisuustuotanto 45 %
+- maataloustuotanto 36 %
+- kiinteät investoinnit 71 %
+- viljan tuotantoala ja maidon ja perunan tuotanto puolittuivat
+- raaka-aineiden osuus viennistä kasvio 66 %:sta 81 %:iin
+
+Uudet sosiaaliset ongelmat
+====================================
+
+Köyhyys
+------------------------------------
+- 90-luvun alussa 80 % N-liiton minimikulutusbudjetin alapuolella
+    - uusi *fysiologinen minimi* 
+    - uuden köyhyysrajan arvo puolet entisestä
+    - tämän päivän pienituloinen on puolet köyhempi kuin neuvostoliittolainen pienituloinen
+- yhtenä syynä oli reaalituĺojen raju lasku, toisena palkkarästit yritysten palkkarästi
+
+Eriarvoisuus
+--------------------------------------
+- 1985 suurituloisin 10 % ansaitsi 3-4 krt pienituloisin 10 %
+- 1992 ero oli 10x, ja 1995 26x. Vuonna 2009 17x
+
+Työttömyys
+------------------------------------
+- ~1995 20 % työttömänä, 2003 ~9 %
+- piilotyöttömyys virallisen työttömyyden ohella ~33 % työvoimasta
+
+Uudet sosiaaliset ongelmat 2
+====================================
+
+Väestökriisi
+------------------------------------
+- 1970 - 1990 vuosittain 770 000 väestönkasvu
+- 1992 väestä alkoi pienentyä ja 1990-luvulla väheni 9 miljoonalla
+- vuoteen 2005 mennessä yli 25 000 tyhjentynyttä kylää ja saman verran alle 10 ihmisen kylää 
+
+Perheen kriisi
+-------------------------------------
+- perheen merkitys vähentynyt?
+- sosiaalisten orpojen määrän kaksinkertaistui 1995 - 2005. ns. 3. orpojen aika
+- laitoksissa ~250 000 lasta, joista vanhemmat eivät huolehdi
+- orpojen ja katulasten
 
 1990-luvun reformit
 ==================================
@@ -30,6 +79,11 @@ Porvoossa, 6. helmikuuta 2014
 - sosiaalipolitiikan näkökulmasta uudistukset olivat ristiriitaisia ja radikaalit muutokset usein heikosti suunniteltuja ja toimeenpantuja, mikä hidasti uusien rakenteiden syntymistä
 - keskusjohtoinen sosiaalipolitiikan hallinto kuitenkin purettiin ja järjestelmästä tuli hajautettu. alueellinen ja altis erilaisille väärinkäytöksille
 
+
+====================================
+<h1>2000-luku ja politiikan painopisteet</h1>
+
+
 Putinin ensimmäinen kausi
 ==================================
 - Putin nosti sosiaalipolitiikan uudistamisen tärkeimmäksi tehtäväksi kaikilla hallituksen ja hallinnon tasoilla -> tavoitteena keskusjohtoisuuden lisääminen
@@ -37,7 +91,6 @@ Putinin ensimmäinen kausi
 - Poliitiikan painopisteiden ohella vuonna 2006 toteutettiin hallinnollinen kuntauudistus, joka muutti federaation, alueiden ja kuntien välisiä voimasuhteita
 - Putinin kauden ajan kestänyt öljyn kallistuminen ja talouden kasvu siivittivät uudistuksia. On puhuttu ns. öjyvetoisesta sosiaalipolitiikasta Putinin aikana
 - vaikka sosiaalipolitiikka on ollut painopisteenä, eivät sosiaalimenot ole kasvaneet juuri muita julkisia menoja nopeammin
-
 
 Keskipalkat ja -eläkkeet
 ===================================
@@ -51,17 +104,28 @@ Minimipalkkat ja köyhyysraja
 ![](https://raw2.github.com/muuankarski/monetisation/master/figure/macroplot_slide2.png?token=1525240__eyJzY29wZSI6IlJhd0Jsb2I6bXV1YW5rYXJza2kvbW9uZXRpc2F0aW9uL21hc3Rlci9maWd1cmUvbWFjcm9wbG90X3NsaWRlMi5wbmciLCJleHBpcmVzIjoxMzkyMjIxMzg2fQ%3D%3D--bf77b0b90cf8d0491cf3a7e38a3ab635235340d7)
 
 
-Esimerkkejä
-====================================
+2000-luvun ominaispiirteet
+=================================
+- väestö tulotaso nousi, mutta eriarvoisuus ei merkittävästi laskenut
+- alueet alkoivat jakautua rikkaisiin ja köyhiin
+    - toiset tulivat toimeen omilla budjettivatoilla, toiset riippuvaisia valtion tuista
+- sosiaalinen turvattomuus on säilynyt
+    - asumisen hinta noussut, ns. kommunalkoissa asuu vielä paljon ihmisiä
+    - eriarvoisituminen
+    - sosiaali- ja terveyspalveluiden laatu ja saatavuus
+- sosiaalipolitiikan vastuuta on siirretty alueille
 
-- äitiyspääoma
-- luontoisetuuksien rahamääräistäminen
-
-
-johdanto
-====================================
-title: false
-<h1>Nykyiset sosiaalipolitiikan painopisteet</h1>
-
-
-
+Sosiaaliturvan kohdentuvuus haasteena
+==================================
+- sosiaalietuuksien heikko kohdentuvuus osa neuvostoperintöä
+    - hintatuet ja luontoisetuudet yleisä tukimuotoja
+    - saajien kategoriat perustuivat ansioihin, ei sosiaalisiin tarpeisiin
+- 1990-luvulla miltei puolet kansalaisista kuului etujen piiriin
+- Yli 80 % köyhistä kotitalouksista sellaisia joissa joku on töissä
+- sosiaaliturvan uudistuksista huolimatta vanha järjestelmä pysyi
+    - esim. asumistukea 2000-luvun alussa sai kahdesta eri järjstelmästä, arvion mukaan 14 % prosenttia tuesta kohdentui köyhiin perheisiin
+- luontoisetuuksien rahamääräistäminen 2005 alkaen
+    - velvollisuudet valtion, alueen ja kuntien välillä uusiksi
+    - suurin ryhmä sotaveteraanit ja invalidit paikallisliikenteeseen, lääkkeisiin ja kuntoutukseen
+    -  alueet saivat valita muuttivatko etuudet rahaksi ja myös ihmiset saivat valita ottavatko etuuden rahana vai ns. sosiaalipakettina
+    - herätti voimakasta vastustusta

@@ -3,6 +3,7 @@
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
+incremental: true
 
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
@@ -21,21 +22,6 @@ Porvoossa, 6. helmikuuta 2014
 !! Your browser does not support the video tag! Try using modern browser as Firefox or Google Chrome to play the video!!
 </video> 
 
-
-Rikkaus ja köyhyys
-=================================================
-- Gini-indeksi joka kuvaa tulonjakoa oli Venäjällä 42.2 (2010) kun se pohjoismaissa on noin 25 > vrt. BRIC-maat
-- Köyhyys alentunut yli 50% 2000-luvulla, talouskriisin alkuvuosina kehitys jatkui, mutta on nyt vaarantumassa
-- Maassa on arviolta 20 miljoonaa köyhää ja köyhyyden vähentäminen edelleen vaatii suuria rakenteellisia reformeja
-
-Köyhyyden rakenteelliset syyt
-=================================================
-- Yli 80 % köyhistä kotitalouksista sellaisia joissa joku on töissä > sosiaalipolitiikan vaikea kohdentaminen
-- Työn tuottavuus alhainen verrattuna esim. muihin BRIC-maihin, high-tech osittain kilpailukyvytöntä
-- Huomattava maaseutu-kaupunki -ero, maalla on köyhyysriski noin kaksinkertainen
-- Huomattavat alue-erot, jotka heijastuvat muuhun hyvinvointiin (koulutusmahdollisuudet, terveys)
-- Siperian kirous? Venäjän vientitulot ja uusi kartta
-- <http://socpol.ru> (Social Atlas of Russian Federation), UNDP:n Venäjä-raportit; Natalia Zubarevich
 
 ====================================
 title: false
@@ -103,31 +89,19 @@ Materiaalinen puute yhteensä
 Elinolot Venäjän alueilla
 ====================================
 
+- [aluetilastojen vertailua](http://glimmer.rstudio.com/muuankarski/rus_region_fi/)
+- [Saippuakuplavisualisointeja Venäjän alueista](https://github.com/muuankarski/rusRegionGVis)
 
-
-Piirien väliset erot elinoloissa
+Karjalan tasavalta vrt. Sotshin alue
 ====================================
 
 - [Väestölaskentavisualisointeja](https://github.com/muuankarski/censusanalysis)
 
 
 
-Karjalan tasavalta vrt. Sotshin alue
-===================================
-
 ====================================
 title: false
 <h1>Lopuksi</h1>
-
-Millaisia (rikkaiden ja köyhien) venäläisten tulee siis olla?
-=================================================
-- Neuvostoluksus ja sen perintö jatkuu? / Jukka Gronow
-- Keskiluokan synty – kiistat ja todellinen trendi
-- Keskiluokan sisäiset erot merkittäviä, silti suosittu samastumiskohde: keskiluokkaan naamioituminen
-- Uuden keskiluokan trendit – erottautuminen / Pierre Bourdieu
-- Moniulotteinen köyhyys: ”ne on köyhiä joilla ei ole rahaa” -> moniulotteiseen syrjäytymiseen ja riskien analyysiin
-- Tulevat ongelmat: köyhyyskulttuuri (tietyt alueet, maaseutu), köyhyyden periytyminen, syrjintä ja rasismi
-- Valoisa tulevaisuus?
 
 Loppupäätelmät
 ====================================
@@ -139,6 +113,16 @@ Loppupäätelmät
 - ristiriitainen tilanne on luonut hyvinvointivaltiolle ns. hybridin rakenteen ja voidaan puhua ns. post-sosialistisesta hyvinvointimallista:
     - joka on heilahtelua yhtäältä uusliberalismin ja valtioperusteisen neuvostoperinnön ja toisaalta riskien yksilöllistämisen ja vahvan hallinnollisen kulttuurin välillä
     - hybridi rakenne luo ristiriitaisia kannustimia mikrotasolla. Toivotut vaikutukset makrotasolla muuttuvat usein ei-toivotuiksi mikrotasolla
+
+Millaisia (rikkaiden ja köyhien) venäläisten tulee siis olla?
+=================================================
+- Keskiluokan synty – kiistat ja todellinen trendi
+- Keskiluokan sisäiset erot merkittäviä, silti suosittu samastumiskohde: keskiluokkaan naamioituminen
+- Moniulotteinen köyhyys: ”ne on köyhiä joilla ei ole rahaa” -> moniulotteiseen syrjäytymiseen ja riskien analyysiin
+- Tulevat ongelmat: köyhyyskulttuuri (tietyt alueet, maaseutu), köyhyyden periytyminen, syrjintä ja rasismi
+- vastuun ottaminen itsestää, omasta terveydestään
+- Valoisa tulevaisuus?
+
 
 iso otsikko
 ====================================

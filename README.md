@@ -6,7 +6,7 @@ Luentodiat
 
 *Diat .html-muodossa. Käytä Firefox/Chrome/Safari -selaimia katseluun. Vaihda diaa nuolinäppäimillä!*
 
-- [1. Johdanto](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
+- [1. Johdanto - sosiaaliturva ja elinolot Neuvostoliitossa](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/johdanto.html)
 - [2. Sosiaalipolitiikka Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/sosiaalipolitiikka.html)
 - [3. Köyhyys ja elinolot Venäjällä](https://rawgithub.com/muuankarski/sosiaalipolitiikka-venaja/master/koyhyys.html)
 
