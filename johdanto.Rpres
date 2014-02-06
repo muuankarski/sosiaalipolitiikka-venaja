@@ -3,7 +3,7 @@
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
-incremental: false
+incremental: true
 
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
@@ -100,14 +100,6 @@ Hyvinvointivaltioteoriat nykyään
 - uudet luokittelut
     - "hyvinvointivaltiomallinnoksen bisnes" sosiaalipolitiikan alalla
     - globaalit luokittelut ([Gough and Wood (2006) A Comparative Welfare Regime Approach to Global Social Policy](http://ideas.repec.org/a/eee/wdevel/v34y2006i10p1696-1712.html) & [Aspalter (2008) The welfare state in cross-cultural perspective](http://isw.sagepub.com/content/51/6/777.short))
-
-
-
-Neuvostoliitto/Venäjä suhteessa teorioihin 
-====================================
-
-- toisin kuin kehitysmaissa, perusturva ja palvelut olemassa ja kohtuullisella tasolla
-- toisin kuin "länsimaissa", hyvinvointivaltion ylhäältä valtion taholta ohjattua demokraattisen prosessin sijaan
 
 
 
@@ -236,3 +228,10 @@ Todellisuus
 - sosiaaliturvan hallinto oli keskitetty ja byrokraattinen, 90 prosenttia sosiaaliturvasta maksettiin valtion budjetista
 
 
+Neuvostoliitto/Venäjä suhteessa teorioihin 
+====================================
+
+- toisin kuin kehitysmaissa, perusturva ja palvelut olemassa ja kohtuullisella tasolla
+- toisin kuin "länsimaissa", hyvinvointivaltion ylhäältä valtion taholta ohjattua demokraattisen prosessin sijaan
+- yhtäältä valtio tarjosi ei-rahamääräsiä etuuksia tietyille sosiaalisille ryhmille
+- toisaalta useimmat sosiaalietuudet olivat työperusteisia ja ne jaettiin valtionyritysten/tuotantolaitosten tasolla
