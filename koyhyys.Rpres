@@ -3,7 +3,7 @@
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
-incremental: true
+incremental: false
 
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>

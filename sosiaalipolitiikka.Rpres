@@ -3,7 +3,7 @@
 css: ../../../template/rpresentation/slides.css
 transition: fade
 transition-speed: fast
-incremental: true
+incremental: false
 
 Luento: *Sosiaalipolitiikka ja elinolot Venäjällä* </br>
 Ikäihmisten yliopisto </br>
@@ -13,7 +13,8 @@ Porvoossa, 6. helmikuuta 2014
 *tohtorikoulutettava* </br>
 [Aleksanteri-instituutti, Helsingin yliopisto](http://helsinki.fi/aleksanteri) &</br>
 [Sosiaalitieteiden laitos, Turun yliopisto](http://www.utu.fi/fi/yksikot/soc/yksikot/sospol_ja_sostyo/Sivut/home.aspx) </br>
- ===================================
+ 
+===================================
 
 ![](http://upload.wikimedia.org/wikipedia/commons/0/06/Russian_economy_since_fall_of_Soviet_Union.PNG)
  
@@ -21,6 +22,7 @@ Porvoossa, 6. helmikuuta 2014
 ===================================
 title:false
 <h1>1990-luvun taloudellinen ja sosiaalinen kriisi</h1>
+
 
 N-liiton romahtamisen vaikutukset
 ===================================
